@@ -1,2 +1,2 @@
-console.log("prueba");
+console.log("aja prueba");
 // write your code below!
